@@ -1,7 +1,7 @@
 # MOVIE'S SEARCHER
 
 
-## CREATED USE:
+## CREATED USING:
 
 ### `react`
 ### `tailwindcss`
